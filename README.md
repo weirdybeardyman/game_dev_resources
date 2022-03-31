@@ -13,6 +13,7 @@ A collection links for where to find mostly free game development resources
 - [Sketchfab](https://sketchfab.com/feed)
 - [CC0 High Def Materials, HDRIs, Models](https://polyhaven.com)
 #### Tools
+- [Blender](https://www.blender.org/)
 - [Mixamo](mixamo.com)
 - [PicoCad](https://johanpeitz.itch.io/picocad)
 - [Sprite 3D Modelling](https://jeiel.itch.io/sprytile)
