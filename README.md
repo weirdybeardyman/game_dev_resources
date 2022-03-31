@@ -2,6 +2,7 @@
 A collection links for where to find mostly free game development resources
 
 ## Assets
+### 2D & 3D
 - [Kenney](https://kenney.nl/)
 - [Open Game Art](https://opengameart.org/)
 - [DevAssets](https://devassets.com/)
@@ -12,6 +13,7 @@ A collection links for where to find mostly free game development resources
 - [Quaternius](https://quaternius.itch.io/)
 - [Sketchfab](https://sketchfab.com/feed)
 - [CC0 High Def Materials, HDRIs, Models](https://polyhaven.com)
+
 #### Tools
 - [Blender](https://www.blender.org/)
 - [Mixamo](mixamo.com)
@@ -26,8 +28,8 @@ A collection links for where to find mostly free game development resources
 - [Pixel Art Sprites](https://www.spritecatalog.com/)
 - [Adam Saltsman Pixel art sets](https://itch.io/c/376872/public-domain-pixel-art)
 - [Pixelart Tilesets](https://limezu.itch.io/)
-
 - [Pixelart Tilesets](https://0x72.itch.io/)
+
 #### Tools
 - [Pixelorama](https://orama-interactive.itch.io/pixelorama)
 - [Krita](https://krita.org/)
