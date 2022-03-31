@@ -12,7 +12,7 @@ A collection links for where to find mostly free game development resources
 - [Zsky](https://zsky2000.itch.io/)
 - [Quaternius](https://quaternius.itch.io/)
 - [Sketchfab](https://sketchfab.com/feed)
-- [CC0 High Def Materials, HDRIs, Models](https://polyhaven.com)
+- [Polyhaven](https://polyhaven.com)
 
 #### Tools
 - [Blender](https://www.blender.org/)
@@ -20,23 +20,24 @@ A collection links for where to find mostly free game development resources
 - [PicoCad](https://johanpeitz.itch.io/picocad)
 - [KenShape](https://tools.kenney.nl/kenshape/) ($3.99)
 - [Asset Forge](https://assetforge.io/) ($19.95)
-- [Sprite 3D Modelling](https://jeiel.itch.io/sprytile)
+- [Sprytile](https://jeiel.itch.io/sprytile) (Sprite based modelling tool for Blender)
 
 ### 2D
 - [Ravenmore](https://ravenmore.itch.io/)
-- [Pixel Art Colour Palettes](https://lospec.com/)
-- [Pixel Art Sprites](https://www.spritecatalog.com/)
-- [Adam Saltsman Pixel art sets](https://itch.io/c/376872/public-domain-pixel-art)
-- [Pixelart Tilesets](https://limezu.itch.io/)
-- [Pixelart Tilesets](https://0x72.itch.io/)
+- [Lospec](https://lospec.com/) (Colour Palettes ad pixel art tutorials)
+- [Sprite Catalog](https://www.spritecatalog.com/)
+- [Adam Saltsman Pixel Art](https://itch.io/c/376872/public-domain-pixel-art)
+- [Limezu Pixelart Tilesets](https://limezu.itch.io/)
+- [0x72 Pixelart Tilesets](https://0x72.itch.io/)
 
 #### Tools
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama)
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) (Free Aesprite alternative)
+- [Aesprite](https://www.aseprite.org/) ($19.99)
 - [Krita](https://krita.org/)
 - [Gimp](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
-- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) (£47.99)
-- [Scale up pixel art](https://spriteshift.itch.io/scalenx)
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) (£47.99 but often on sale)
+- [Pixel art upscaling](https://spriteshift.itch.io/scalenx)
 
 ### Textures and Materials
 - [Textures](https://textures.com/)
