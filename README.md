@@ -16,6 +16,8 @@ A collection links for where to find mostly free game development resources
 - [Blender](https://www.blender.org/)
 - [Mixamo](mixamo.com)
 - [PicoCad](https://johanpeitz.itch.io/picocad)
+- [KenShape](https://tools.kenney.nl/kenshape/) ($3.99)
+- [Asset Forge](https://assetforge.io/) ($19.95)
 - [Sprite 3D Modelling](https://jeiel.itch.io/sprytile)
 
 ### 2D
@@ -31,6 +33,7 @@ A collection links for where to find mostly free game development resources
 - [Krita](https://krita.org/)
 - [Gimp](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
+- [Affinity Designer](https://affinity.serif.com/en-gb/designer/) (£47.99)
 - [Scale up pixel art](https://spriteshift.itch.io/scalenx)
 
 ### Textures and Materials
