@@ -47,6 +47,11 @@ A collection links for where to find mostly free game development resources
 - [CC0 High Def Materials, HDRIs, Models](https://polyhaven.com)
 - [Agama Materials (substance like)](https://agama.itch.io/agama-materials)
 - [Free & Paid assets and textures](https://kronbits.itch.io/)
+- [128 free Pixar textures](https://renderman.pixar.com/pixar-one-twenty-eight)
+- [Textures + some 3D models and Photos](https://www.3dxo.com/)
+- [High quality 3D textures](https://3dtextures.me/)
+- [Large variety of Textures and photos](http://texturer.com/)
+- [Photos and Textures](https://www.environment-textures.com/)
 
 ### Shaders
 #### Godot
