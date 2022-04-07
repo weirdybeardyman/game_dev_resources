@@ -85,6 +85,7 @@ A collection links for where to find mostly free game development resources
 ### Colour Palettes
 - [lospec](https://lospec.com)
 - [Colour Hex Palettes](https://www.color-hex.com)
+- [Colour Palettes from one colour](https://mycolor.space/)
 
 ### Fonts
 - [Dafont](https://www.dafont.com)
