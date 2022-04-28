@@ -85,6 +85,9 @@ A collection links for where to find mostly free game development resources
 ### Level Design
 - [Level Museum](https://noclip.website/)
 
+### References
+- [Dimensions](https://www.dimensions.com/)
+
 ## Graphic Design
 - [who can use](https://whocanuse.com/)
 
