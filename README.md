@@ -38,6 +38,7 @@ A collection links for where to find mostly free game development resources
 - [Inkscape](https://inkscape.org/)
 - [Affinity Designer](https://affinity.serif.com/en-gb/designer/) (£47.99 but often on sale)
 - [Pixel art upscaling](https://spriteshift.itch.io/scalenx)
+- [Pixel Circle drawing](https://donatstudios.com/PixelCircleGenerator)
 
 ### Textures and Materials
 - [Textures](https://textures.com/)
