@@ -136,11 +136,14 @@ A collection links for where to find mostly free game development resources
 ## Learning
 
 [GMTK Interactable Platformer Game Essay](https://gmtk.itch.io/platformer-toolkit)
+[GDC Huge amount of video essays](https://www.youtube.com/c/Gdconf)
 
 ### Tutorials
 - [Redblobgames](https://www.redblobgames.com/)
 - [Lostgarden](https://lostgarden.home.blog/blog-archive/)
 - [MakeGame (KenneyNL) Tips, Articles & Resources](https://github.com/orgs/makegame-org/discussions)
+- [3D Tips and Resources](https://highpriority.com/learn/)
+- [Programming Language Quick Guides](https://learnxinyminutes.com/) (Super quick way to get familiar with a new language if you already know programming basics)
 
 ### Books 
 - [Game Maths](https://gamemath.com/)
