@@ -139,11 +139,10 @@ A collection links for where to find mostly free game development resources
 - [Learn GDScript (Godot Programming) interactive app](https://gdquest.itch.io/learn-godot-gdscript)
 
 ### Videos
-- [GDC Huge amount of Game-Dev video essays](https://www.youtube.com/c/Gdconf)
-- [Some Advanced Technical Art Techniques](https://www.youtube.com/c/MartinDonald)
-- Seb lague
-- Simon dev
-- guy who does code train
+- [Huge amount of Game-Dev video essays](https://www.youtube.com/c/Gdconf) (GDC)
+- [Some Advanced Technical Art Techniques](https://www.youtube.com/c/MartinDonald) (Martin Donald)
+- [Game Development Tutorials](https://www.youtube.com/c/SebastianLague/playlists?view=50&sort=dd&shelf_id=4) (Sebastian Lague)
+- [Coding concepts and challenges](https://thecodingtrain.com/) (The Coding Train)
 #### Pixel Art
 - [Pixel Art Class](https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) (AdamCYounis)
 - [Ultimate Pixel Art Tutorial](https://www.youtube.com/watch?v=lfR7Qj04-UA&list=WL&index=16) (Saultoons)
