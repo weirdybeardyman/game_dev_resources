@@ -2,6 +2,7 @@
 A collection links for where to find mostly free game development resources
 
 ## Assets
+
 ### 2D & 3D
 - [Kenney](https://kenney.nl/)
 - [Open Game Art](https://opengameart.org/)
@@ -66,6 +67,7 @@ A collection links for where to find mostly free game development resources
 - [Agama Materials (substance like)](https://agama.itch.io/agama-materials)
 
 ### Shaders
+
 #### Godot
 - [Godot Shaders](https://godotshaders.com/)
 - [Outline Shader](https://github.com/jocamar/Godot-Post-Process-Outlines)
@@ -77,6 +79,7 @@ A collection links for where to find mostly free game development resources
 - [Josh Mclean](https://joshua-mclean.itch.io/)
 - [Pico Tunes 1](https://gruber99.bandcamp.com/album/pico-8-tunes-vol-1) 
 - [Pico Tunes 2](https://gruber99.bandcamp.com/album/pico-8-tunes-vol-2)
+
 #### Tools
 - [Ardour](https://ardour.org/)
 - [LMMS](https://lmms.io/)
@@ -96,6 +99,11 @@ A collection links for where to find mostly free game development resources
 
 ### Level Design
 - [Level Museum](https://noclip.website/)
+
+### Project Management
+- [Hackn'plan](https://hacknplan.com/) (Game development specific documentation and project management)
+- [Notion](https://www.notion.so/) (Notes, Kanban Boards, Calenadars ect.)
+- [Trello](https://trello.com/)
 
 ### Preproduction
 - [Moodboard](https://www.pureref.com/)
