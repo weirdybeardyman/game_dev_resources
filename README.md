@@ -135,10 +135,28 @@ A collection links for where to find mostly free game development resources
 
 ## Learning
 
-[GMTK Interactable Platformer Game Essay](https://gmtk.itch.io/platformer-toolkit)
-[GDC Huge amount of video essays](https://www.youtube.com/c/Gdconf)
+- [GMTK Interactable Platformer Game Essay](https://gmtk.itch.io/platformer-toolkit)
+- [Learn GDScript (Godot Programming) interactive app](https://gdquest.itch.io/learn-godot-gdscript)
 
-### Tutorials
+### Videos
+- [GDC Huge amount of Game-Dev video essays](https://www.youtube.com/c/Gdconf)
+- [Some Advanced Technical Art Techniques](https://www.youtube.com/c/MartinDonald)
+- Seb lague
+- Simon dev
+- guy who does code train
+#### Pixel Art
+- [Pixel Art Class](https://www.youtube.com/playlist?list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_) (AdamCYounis)
+- [Ultimate Pixel Art Tutorial](https://www.youtube.com/watch?v=lfR7Qj04-UA&list=WL&index=16) (Saultoons)
+- [Pixel Art Tutorials](https://www.youtube.com/playlist?list=PLFLRQZXTN0Bib3eMsOVFeWsBKdevPz5xZ) (Pixel Overload)
+- [Pixel Art Tutorials](https://www.youtube.com/playlist?list=PLp99DFIAFv-xM8l6Uzmg83yvGRu6jMfid) (Saultoons)
+- [Pixel Art 101](https://www.youtube.com/playlist?list=PLmac3HPrav-9UWt-ahViIZxpyQxJ2wPSH) (Pixel Pete)
+- [Inspiring Pixel Art](https://www.youtube.com/c/BJGpixel) (Brandon James Greer)
+#### Godot
+- [Godot Tricks](https://www.youtube.com/playlist?list=PLIPN1rqO-3eHRuQI_zNbHMGB7Tj8UvM7p) (Play With Furcifer)
+- [Godot Tutorials](https://www.youtube.com/playlist?list=PLIPN1rqO-3eGXTDiptZgPnXTObQ4vOQhG) (Play With Furcifer)
+- [Godot Tutorials](https://www.youtube.com/c/Gdquest) (GDQuest)
+
+### Written Tutorials
 - [Redblobgames](https://www.redblobgames.com/)
 - [Lostgarden](https://lostgarden.home.blog/blog-archive/)
 - [MakeGame (KenneyNL) Tips, Articles & Resources](https://github.com/orgs/makegame-org/discussions)
@@ -147,6 +165,7 @@ A collection links for where to find mostly free game development resources
 
 ### Books 
 - [Game Maths](https://gamemath.com/)
+- [Shaders](https://thebookofshaders.com/)
 
 ### Visuals
 - [Toon Art tutorials & tips](https://minionsart.github.io/tutorials/)
