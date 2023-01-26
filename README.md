@@ -74,12 +74,15 @@ A collection links for where to find mostly free game development resources
 
 ### Audio
 - [Free orchestra](https://projectsam.com/libraries/the-free-orchestra/)
+- [Staccato String Orchestra](https://heavyocity.com/product/foundations-staccato-strings/)
+- [Spitfire LABS](https://labs.spitfireaudio.com/?sortBy=prod_products_labs_popular)
 - [Freesound](https://freesound.org/)
 - [Zapsplat](https://www.zapsplat.com/)
 - [Free Looping Music](https://soundimage.org/looping-music/)
 - [Josh Mclean](https://joshua-mclean.itch.io/)
 - [Pico Tunes 1](https://gruber99.bandcamp.com/album/pico-8-tunes-vol-1) 
 - [Pico Tunes 2](https://gruber99.bandcamp.com/album/pico-8-tunes-vol-2)
+- [Some free samplers](https://www.decentsamples.com/)
 
 #### Tools
 - [Ardour](https://ardour.org/)
@@ -162,6 +165,7 @@ A collection links for where to find mostly free game development resources
 - [MakeGame (KenneyNL) Tips, Articles & Resources](https://github.com/orgs/makegame-org/discussions)
 - [3D Tips and Resources](https://highpriority.com/learn/)
 - [Programming Language Quick Guides](https://learnxinyminutes.com/) (Super quick way to get familiar with a new language if you already know programming basics)
+- [Kenney Game Development Guides](https://github.com/orgs/makegame-org/discussions/categories/articles)
 
 ### Books 
 - [Game Maths](https://gamemath.com/)
